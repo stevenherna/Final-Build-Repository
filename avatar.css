@@ -94,4 +94,8 @@ width: 82%;
 .character {
 text-align: center;
 }
-
+body{
+display:flex;
+flex-direction: column;
+justify-content:center;
+}
